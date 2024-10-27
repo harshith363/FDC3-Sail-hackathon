@@ -105,6 +105,10 @@ npm install
 ~~~bash
 export SAIL_DIRECTORY_URL=directory/local.v2.json
 ~~~
+For windows
+~~~
+set SAIL_DIRECTORY_URL=directory/local.v2.json
+~~~
 
 4. Start the FDC3 application:
 
